@@ -1,0 +1,6 @@
+send /crates transfer iiamerica dropparty 1
+send /crates transfer iiamerica dropparty 1
+send /crates transfer iiamerica basic 1
+send /crates transfer iiamerica basic 1
+send /crates transfer iiamerica parkour 1
+send /crates transfer iiamerica parkour 1

@@ -1,0 +1,3 @@
+send /sell all
+send /pay iiamerica 1000000
+
